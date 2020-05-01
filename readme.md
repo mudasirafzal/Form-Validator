@@ -2,6 +2,8 @@
 
 Simple client side form validation. Check required, length, email and password match
 
+<br>
+<a href="http://mstechlabs.com/vanilla/formvalidator/" target="_blank">Demo Link</a>
 ## Project Specifications
 
 - Create form UI
